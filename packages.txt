@@ -1,0 +1,4 @@
+npm install bcryptjs dotenv express express-async-handler jsonwebtoken mongoose morgan concurrently nodemon
+FCCFfcJKvmiseCVM password
+akhildhingra13 username
+mongodb+srv://akhildhingra13:<FCCFfcJKvmiseCVM>@cluster0.n9mtud3.mongodb.net/ react-node-app
